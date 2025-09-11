@@ -10,11 +10,11 @@ All important dates will be announced here.
 
 ## 2025
 - **Fall 2025**: Submission site opens
-- **December 1, 2025:** Abstracts due
+- **December 2, 2025:** Abstracts due
 - **December 8, 2025:** Full papers due
 
 ## 2026
-- **February 16, 2026:** Notification of acceptance
+- **February 20, 2026:** Notification of acceptance
 <!-- - January 30 to February 4, 2025 - Author feedback period
 - February 5 to February 28, 2025 - Discussion phase
 - **March 1, 2025** - Notifications are sent to authors
