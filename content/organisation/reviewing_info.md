@@ -1,5 +1,5 @@
 ---
-title: "Reviewing Guidelines"
+title: "Reviewing Information"
 date: 2025-10-29
 draft: false
 ---
