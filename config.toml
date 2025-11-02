@@ -442,9 +442,9 @@ languageCode = 'en_US'
     parent = "organisation"
     weight = 100
   [[menu.main]]
-    identifier = "reviewing_info"
-    name = "Reviewing Information"
-    url = "/organisation/reviewing_info"
+    identifier = "reviewing"
+    name = "Reviewing Guidelines"
+    url = "/organisation/reviewing"
     parent = "organisation"
   # [[menu.main]]
   #   identifier = "roles"
