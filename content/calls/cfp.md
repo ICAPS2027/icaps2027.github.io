@@ -8,7 +8,7 @@ draft: false
 
 The International Conference on Automated Planning and Scheduling ICAPS is the premier forum for new research results on the theory and applications of planning and scheduling technology. The 36th edition of the ICAPS conference series will be held in Dublin, Ireland, from June 27 to July 2, 2026. 
 
-In addition to the main track, ICAPS-26 will feature four special tracks.  Each track is chaired by two prominent researchers in the field: specialised review criteria will be applied as appropriate and papers will be assigned reviewers members with specialised knowledge in the appropriate area:
+In addition to the main track, ICAPS-26 will feature four special tracks.  Each track is chaired by two prominent researchers in the field. Specialised review criteria will be applied as appropriate and papers will be assigned reviewers members with specialised knowledge in the appropriate area:
 - Applications of Planning & Scheduling: Jeremy Frank (NASA, USA), Neil Yorke-Smith (TU Delft, Netherlands)
 - Human-aware Planning & Scheduling: William Yeoh (Washington University in St Louis, USA), Reuth Mirsky (Tufts, USA)
 - Learning for Planning & Scheduling: Blai Bonet (Universidad Simón Bolívar, Venezuela),  Akshat Kumar (Singapore Management University, Singapore)
@@ -25,7 +25,7 @@ Topics in scope for the main track include (but are definitely not limited to):
 - Temporal planning, Mixed discrete/continuous planning, Optimisation of spatio-temporal systems;
 - Planning under uncertainty, Sequential decision making, Planning with large language models, Planning with MDPs or POMDPs, Fully observable non-deterministic planning, Planning with sensing, Representation of uncertainty;
 - Activity and plan recognition, Plan execution and monitoring, Re-planning and plan repair;
-- Planning, Routing, Scheduling under uncertainty;
+- Scheduling, Including Scheduling Under Uncertainty and Routing;
 - Planning with hierarchical representations;
 - Planning with incomplete models, Real-time planning, Distributed and multi-agent planning, Generalised planning;
 - Search methods for planning and scheduling, SAT, SMT and CP, Local search and evolutionary programming, Sub-modular and gradient-free optimisation, Mathematical programming, Infinite-horizon optimal control problems, Model checking for trust, safety and robustness;
@@ -69,7 +69,7 @@ Authors can submit supplementary material (videos, technical proofs, additional 
 
 Failure to comply with the submission instructions above will result in desk rejection.
 
-ICAPS-26 will follow a single round review process with an author feedback period providing authors the opportunity for author respond to the reviews of their paper.  During this period the authors will have the opportunity to provide a fixed-length response to the reviewers, but will not be permitted to include links to external materials or present additional results.
+ICAPS-26 will follow a single round review process with an author feedback period providing authors the opportunity to respond to the reviews of their paper. During this period the authors will have the opportunity to provide a fixed-length response to the reviewers, but will not be permitted to include links to external materials or present additional results.
 
 ## Double-blind requirements
 Double-blind requirements are satisfied whenever authors omit their names and institutions, refer to prior work by themselves or others in the third person, and ensure that the acknowledgement notices or ethics statements do not include information that may identify them. We discourage authors from posting their manuscripts on Arxiv.org or other similar repositories from two weeks before the submission deadline until the author notification deadline to avoid de-anonymizing the paper to potential reviewers.

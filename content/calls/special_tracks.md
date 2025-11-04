@@ -42,6 +42,7 @@ The Planning and Learning track welcomes submissions at the intersection of plan
  
 Topics of interest include, but not limited to:
 - Learning heuristics, domain and action models, or other forms of control knowledge for planning
+- Learning  generalized policies, sketches, goal decompositions, landmarks for planning
 - Neuro-symbolic approaches for representing and reasoning with learned models
 - Theoretical aspects of planning and learning
 - Multi-agent planning and learning
@@ -50,6 +51,7 @@ Topics of interest include, but not limited to:
 - Planning and scheduling methods to improve the performance of foundation models (LLM, VLM, VLA, etc.)
 - Planning and scheduling using foundation models (LLM, VLM, VLA, etc.)
 - Model-free approaches to planning and scheduling built from data
+
 
 ## Track: Robotics (Chairs: Federico Pecora and Alan Fern)
 
