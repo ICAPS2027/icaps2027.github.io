@@ -1444,6 +1444,11 @@ textarea {
 		margin: 0;
 	}
 
+	#banner-main {
+		padding-top: 2em;
+		min-height: 0px;
+	}
+
 	.logo {
 		/* text-align: center; */
 	}
