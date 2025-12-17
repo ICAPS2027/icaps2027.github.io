@@ -1,6 +1,6 @@
-baseURL = 'https://icaps26.icaps-conference.org/'
+baseURL = 'https://icaps27.icaps-conference.org/'
 #baseURL = 'https://icaps26.github.io/'
-title = 'ICAPS 2026'
+title = 'ICAPS 2027'
 theme = 'mainroad'
 
 [languages.en]
@@ -9,9 +9,9 @@ languageCode = 'en_US'
 
 [Params.logo]
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
-  title = "The 36th International Conference" # Logo title, otherwise will use site title
+  title = "The 37th International Conference" # Logo title, otherwise will use site title
   title2 = "on Automated Planning and Scheduling"
-  subtitle = "Dublin, Ireland, \n June 27 - July 2, 2026" # Logo subtitle
+  subtitle = "Columbia, SC, USA \n Summer 2027" # Logo subtitle
 
 [Params.style.vars]
      highlightColor = "#f5821f"
@@ -43,11 +43,11 @@ languageCode = 'en_US'
     url="/news"
     weight = 1000
 # DATES
-  [[menu.main]]
-    identifier = "dates"
-    name = "Dates"
-    url="/dates"
-    weight = 2000
+#   [[menu.main]]
+#     identifier = "dates"
+#     name = "Dates"
+#     url="/dates"
+#     weight = 2000
 # COMPETITIONS
 #  [[menu.main]]
 #    identifier = "competitions"
@@ -137,28 +137,28 @@ languageCode = 'en_US'
 #    parent = "attending"
 #    weight = "50"
 # CALLS
-[[menu.main]]
-  identifier = "calls"
-  name = "Calls"
-  weight = 4000
-[[menu.main]]
-  identifier = "cfp"
-  name = "Call for Papers"
-  url = "/calls/cfp"
-  parent = "calls"
-  weight = 10
-[[menu.main]]
-  identifier = "special_tracks"
-  name = "Special Tracks"
-  url = "/calls/special_tracks"
-  parent = "calls"
-  weight = 10
-[[menu.main]]
-  identifier = "call_shadow_pc"
-  name = "Call for Shadow PC Members"
-  url = "/calls/shadow_pc"
-  parent = "calls"
-  weight = 20
+# [[menu.main]]
+#   identifier = "calls"
+#   name = "Calls"
+#   weight = 4000
+# [[menu.main]]
+#   identifier = "cfp"
+#   name = "Call for Papers"
+#   url = "/calls/cfp"
+#   parent = "calls"
+#   weight = 10
+# [[menu.main]]
+#   identifier = "special_tracks"
+#   name = "Special Tracks"
+#   url = "/calls/special_tracks"
+#   parent = "calls"
+#   weight = 10
+# [[menu.main]]
+#   identifier = "call_shadow_pc"
+#   name = "Call for Shadow PC Members"
+#   url = "/calls/shadow_pc"
+#   parent = "calls"
+#   weight = 20
 # [[menu.main]]
 #   identifier = "tools_papers_call"
 #   name = "Tools Papers"

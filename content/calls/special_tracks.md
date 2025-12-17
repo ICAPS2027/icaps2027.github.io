@@ -1,14 +1,14 @@
 ---
 title: "Special Tracks"
-date: 2025-11-02
-draft: false
+date: 2026-11-02
+draft: true
 ---
 
-# ICAPS 2026 Descriptions of Special Tracks
+# ICAPS 2027 Descriptions of Special Tracks
 
-ICAPS-26 has an explicitly broad interpretation of planning and scheduling.  To highlight certain areas of interest and ensure that papers in those areas are reviewed appropriately, ICAPS-26 has four special tracks.  If your work does not fit within one of these special tracks, please submit to the default `main track’.  If you are unsure whether your work should be submitted to a special track or the main track, feel free to contact the chairs of the special track.
+ICAPS-27 has an explicitly broad interpretation of planning and scheduling.  To highlight certain areas of interest and ensure that papers in those areas are reviewed appropriately, ICAPS-27 has special tracks.  If your work does not fit within one of these special tracks, please submit to the default ‘main track’.  If you are unsure whether your work should be submitted to a special track or the main track, feel free to contact the chairs of the special track.
 
-## Track: Human-aware Planning and Scheduling (Chairs: Reuth Mirsky and William Yeoh)
+## Track: Human-aware Planning and Scheduling
 
 The human-aware planning and scheduling track welcomes papers that address any challenges inherent to settings where a person needs to use, interact, collaborate or work along with planning and scheduling systems. The goal of this track is to foster advances in algorithms, design and modeling that enable planning and scheduling systems to interact effectively, transparently, and safely with people. We welcome submissions on novel algorithms, modeling techniques, challenges, and case studies of fielded systems. The track will also accept papers that address these challenges using Reinforcement learning or other learning mechanisms for sequential decision making. 
  
@@ -22,7 +22,7 @@ Topics of interest include, but are not limited to:
 - Interfaces, visualization, and methods for effective human–planner communication
 - Applications in human–robot teaming, collaborative decision support, assistive systems, and real-world scheduling scenarios
 
-## Track: Industry and Applications (Chairs: Jeremy Frank and Neil Yorke-Smith)
+## Track: Industry and Applications
 
 The Industry and Applications track (formerly Novel Applications track) invites papers that demonstrate how planning and scheduling methods are applied to solve problems in industry and commerce, government, or emerging societal contexts. This track aims  to bring scientific results from planning and scheduling to practice, and also aims to identify scientific challenges by analyzing the limitations of current results to tackle real-world problems. We solicit submissions and participation from the private and public sectors, as well as from academics working on applications. We encourage submissions to provide rigorous evaluation using real-world data, and if applicable, to discuss the deployment of the methods and systems.
  
@@ -36,7 +36,7 @@ Topics of interest include, but not limited to:
 - Assessment of impact on end users, customers, markets, or society at large
 - Industry / application challenge problems in planning and scheduling (including benchmark instances)
 
-## Track: Planning and Learning (Chairs: Blai Bonet and Akshat Kumar)
+## Track: Planning and Learning
 
 The Planning and Learning track welcomes submissions at the intersection of planning and scheduling, machine learning and reinforcement learning. We particularly welcome submissions that provide rigorous empirical evaluation or theoretical insights into the interaction between learning, planning and scheduling fields to improve adaptability and scalability of sequential decision-making systems. Submissions must clearly make a case for their relevance to automated planning and scheduling systems. 
  
@@ -53,7 +53,7 @@ Topics of interest include, but not limited to:
 - Model-free approaches to planning and scheduling built from data
 
 
-## Track: Robotics (Chairs: Federico Pecora and Alan Fern)
+## Track: Robotics
 
 The Robotics track welcomes research contributions in the general areas of planning and scheduling, which relate to the advancement of intelligent robots. The track aims to bridge high-level planning and scheduling with low-level control to enable robust, adaptive, and intelligent robot behavior. We especially encourage submissions that demonstrate and evaluate their approach on physically-realistic simulation platforms such as Gazebo and IsaacSim, and in physical robots, where possible. Submissions must demonstrate tight coupling between planning algorithms and robotic perception, control, or learning. 
  

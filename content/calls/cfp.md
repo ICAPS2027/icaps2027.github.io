@@ -1,23 +1,23 @@
 ---
 title: "Call for Papers"
-date: 2025-10-29
-draft: false
+date: 2026-10-29
+draft: true
 ---
 
-# Call for Papers: ICAPS 2026
+# Call for Papers: ICAPS 2027
 
-The International Conference on Automated Planning and Scheduling ICAPS is the premier forum for new research results on the theory and applications of planning and scheduling technology. The 36th edition of the ICAPS conference series will be held in Dublin, Ireland, from June 27 to July 2, 2026. 
+The International Conference on Automated Planning and Scheduling ICAPS is the premier forum for new research results on the theory and applications of planning and scheduling technology. The 37th edition of the ICAPS conference series will be held in Columbia, SC, USA, in the Summer of 2027. 
 
-In addition to the main track, ICAPS-26 will feature four special tracks.  Each track is chaired by two prominent researchers in the field. Specialised review criteria will be applied as appropriate and papers will be assigned reviewers with specialised knowledge in the appropriate area:
-- Applications of Planning & Scheduling: Jeremy Frank (NASA, USA), Neil Yorke-Smith (TU Delft, Netherlands)
-- Human-aware Planning & Scheduling: William Yeoh (Washington University in St Louis, USA), Reuth Mirsky (Tufts, USA)
-- Learning for Planning & Scheduling: Blai Bonet (Universidad Simón Bolívar, Venezuela),  Akshat Kumar (Singapore Management University, Singapore)
-- Planning & Scheduling in Robotics: Federico Pecora (Amazon Robotics, USA), Alan Fern (Oregon State University, USA)
+In addition to the main track, ICAPS-27 will feature special tracks. Details to be announced.
+- Applications of Planning & Scheduling
+- Human-aware Planning & Scheduling
+- Learning for Planning & Scheduling
+- Planning & Scheduling in Robotics
 
 The following call and submission instructions pertain to papers submitted to the main track and all special tracks. Specific information about each special track and specific criteria can be found on the [Special Tracks Page](special_tracks).
 
 ## Scope
-ICAPS-26 welcomes paper submissions on all aspects of automated planning and scheduling.  Planning and scheduling are to be interpreted broadly, to encompass a variety of decision-making and optimization problems involving action selection and timing.  This includes domain modeling, plan and schedule synthesis, execution and monitoring, failure diagnosis, model repair, and associated learning, representation, and reasoning problems.  ICAPS welcomes work on both deterministic and stochastic sequential decision-making, both with and without full observability, and both with and without factored state representations. 
+ICAPS-27 welcomes paper submissions on all aspects of automated planning and scheduling.  Planning and scheduling are to be interpreted broadly, to encompass a variety of decision-making and optimization problems involving action selection and timing.  This includes domain modeling, plan and schedule synthesis, execution and monitoring, failure diagnosis, model repair, and associated learning, representation, and reasoning problems.  ICAPS welcomes work on both deterministic and stochastic sequential decision-making, both with and without full observability, and both with and without factored state representations. 
 
 Topics in scope for the main track include (but are definitely not limited to):
 - Knowledge Engineering for planning: Reasoning about actions, Reasoning about knowledge and belief;
@@ -42,13 +42,13 @@ Papers that do not address problems related to automated planning or scheduling 
 
 ## Key Dates
 The reference timezone for all deadlines is UTC-12. That is, the deadline has not passed as long as there is still time anywhere in the world.
-- Abstract submission deadline: 2nd December 2025
-- Paper submission deadline: 8th December 2025
-- Author response period: 2nd-4th Feb 2026
-- Author notification: 20th February 2026
+- Abstract submission deadline: Late 2026
+- Paper submission deadline: Late 2026
+- Author response period: Early 2027
+- Author notification: Early 2027
 
 ## Author Guidelines
-We welcome submissions of both long (8 pages plus additional page(s) for references) and short (4 pages plus additional page(s) for references) papers. Whether the paper is long or short must be indicated at submission time.  All papers submitted to ICAPS-26 must be in AAAI Format (see below).
+We welcome submissions of both long (8 pages plus additional page(s) for references) and short (4 pages plus additional page(s) for references) papers. Whether the paper is long or short must be indicated at submission time.  All papers submitted to ICAPS-27 must be in AAAI Format (see below).
 
 Over-length papers will be rejected without review. A paper is over-length whenever content other than the references and the optional ethical impacts statement appears on page 9 (resp. Page 5) of long (resp. short) papers.
 
@@ -56,19 +56,19 @@ All reviewed papers, whether they are in the long or short category, will be eva
 
 All accepted papers will be published in the proceedings and presented at the conference in either oral and/or poster format.
 
-Papers submitted to ICAPS-26 may not be submitted to other conferences or journals during the ICAPS-26 review period, nor may they be already under review, accepted, or published in other conferences or journals.  Authors of previously-published work wishing to present at ICAPS are encouraged to submit to the Previously-published Papers Track.
+Papers submitted to ICAPS-27 may not be submitted to other conferences or journals during the ICAPS-27 review period, nor may they be already under review, accepted, or published in other conferences or journals.  Authors of previously-published work wishing to present at ICAPS are encouraged to submit to the Previously-published Papers Track.
 
-The format of ICAPS-26 will be in-person. As such, we expect at least one author of each accepted paper to register for the conference and present their work in person, unless exceptional circumstances prevent this.  In the event of exceptional circumstances that prevent all authors of a paper from attending the conference, authors should contact the Program Chairs as soon as possible.
+The format of ICAPS-27 will be in-person. As such, we expect at least one author of each accepted paper to register for the conference and present their work in person, unless exceptional circumstances prevent this.  In the event of exceptional circumstances that prevent all authors of a paper from attending the conference, authors should contact the Program Chairs as soon as possible.
 
 
 ## Submission Instructions
-All submissions will be made electronically via [EasyChair](https://easychair.org/my2/conference?conf=icaps2026). Submitted papers must be anonymous for double-blind reviewing, must adhere to the page limits of the relevant submission type (long or short), and must follow the author kit instructions for formatting. We use the AAAI 2026 author kit that can be found [following this link](https://aaai.org/authorkit26-1/). Inclusion of the AAAI reproducibility checklist is not required.
+All submissions will be made electronically via [EasyChair](https://easychair.org/my2/conference?conf=icaps2027). Submitted papers must be anonymous for double-blind reviewing, must adhere to the page limits of the relevant submission type (long or short), and must follow the author kit instructions for formatting. We use the AAAI author kit that can be found [following this link](https://aaai.org/authorkit/). Inclusion of the AAAI reproducibility checklist is not required.
 
 Authors can submit supplementary material (videos, technical proofs, additional experimental results) in addition to the PDF paper they submit. Please ensure the supporting material is anonymised unless stated otherwise for specific submission types. Papers should be self-contained; reviewers are encouraged but not obligated to consider supporting material in their decisions, with the exception of tools papers. We recommend appendices are included through the supplementary material; however, if authors decide to include a appendix in the paper it must fit within the specified page limit.
 
 Failure to comply with the submission instructions above will result in desk rejection.
 
-ICAPS-26 will follow a single round review process with an author feedback period providing authors the opportunity to respond to the reviews of their paper. During this period the authors will have the opportunity to provide a fixed-length response to the reviewers, but will not be permitted to include links to external materials or present additional results.
+ICAPS-27 will follow a single round review process with an author feedback period providing authors the opportunity to respond to the reviews of their paper. During this period the authors will have the opportunity to provide a fixed-length response to the reviewers, but will not be permitted to include links to external materials or present additional results.
 
 ## Double-blind requirements
 Double-blind requirements are satisfied whenever authors omit their names and institutions, refer to prior work by themselves or others in the third person, and ensure that the acknowledgement notices or ethics statements do not include information that may identify them. We discourage authors from posting their manuscripts on Arxiv.org or other similar repositories from two weeks before the submission deadline until the author notification deadline to avoid de-anonymizing the paper to potential reviewers.
@@ -81,17 +81,14 @@ Following the ICAPS tradition, we will award the best paper and best student pap
 
 
 ## Policies
-1. By submitting or reviewing work at ICAPS-26, you agree to be bound by the [ICAPS code of conduct](code_of_conduct/) and by the [ICAPS COI policy](https://www.icaps-conference.org/wp-content/uploads/2024/06/ICAPS-Conflict-of-Interest-Policy.pdf).
+1. By submitting or reviewing work at ICAPS-27, you agree to be bound by the [ICAPS code of conduct](code_of_conduct/) and by the [ICAPS COI policy](https://www.icaps-conference.org/wp-content/uploads/2024/06/ICAPS-Conflict-of-Interest-Policy.pdf).
 2. Authors and reviewers are expected to follow the [AAAI-26 policies](https://aaai.org/conference/aaai/aaai-26/policies-for-aaai-26-authors/) regarding use of AI-generated work: papers and reviews must be human-written but AI tools may be used to polish the author-written text.
 3. Papers that violate our submission or formatting rules may be rejected without review.
 
 For inquiries contact: icaps26pcchairs@gmail.com
 
-## ICAPS 2026 Program Chairs
-- Amanda Coles, Kings College London, UK
-- Wheeler Ruml, University of New Hampshire, USA
-- Sandhya Saisubramanian, Oregon State University, USA
+## ICAPS 2027 Program Chairs
+- TBA
 
-## ICAPS 2026 Conference Chairs
-- Adi Botea, Eaton, Ireland
-- Alfonso Emilio Gerevini, University of Brescia, Italy
+## ICAPS 2027 Conference Chairs
+- TBA

@@ -3,7 +3,7 @@ title: "Reviewing Guidelines"
 date: 2025-10-29
 draft: false
 ---
-# Reviewing at ICAPS 2026
+# Reviewing at ICAPS 2027
 
 ## Scope of the Conference
 

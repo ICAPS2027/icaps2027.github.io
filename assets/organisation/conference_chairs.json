@@ -5,14 +5,14 @@
             "email": "",
             "people": [
                 {
-                    "name": "Adi Botea",
-                    "institution": "Eaton",
-                    "country": "Ireland"
+                    "name": "Biplav Srivastava",
+                    "institution": "University of South Carolina",
+                    "country": "USA"
                 },
                 {
-                    "name": "Alfonso Emilio Gerevini",
-                    "institution": "University of Brescia",
-                    "country": "Italy"
+                    "name": "Forest Agostinelli",
+                    "institution": "University of South Carolina",
+                    "country": "USA"
                 }
             ]
         },
@@ -21,195 +21,8 @@
             "email": "",
             "people": [
                 {
-                    "name": "Amanda Coles",
-                    "institution": "Kings College London",
-                    "country": "UK"
-                },
-                {
-                    "name": "Wheeler Ruml",
-                    "institution": "University of New Hampshire",
-                    "country": "USA"
-                },
-                {
-                    "name": "Sandhya Saisubramanian",
-                    "institution": "Oregon State University",
-                    "country": "USA"
-                }
-            ]
-        },
-        {
-            "position": "Applications of Planning & Scheduling Track Chairs",
-            "email": "",
-            "people": [
-                {
-                    "name": "Jeremy Frank",
-                    "institution": "NASA",
-                    "country": "USA"
-                },
-                {
-                    "name": "Neil Yorke-Smith",
-                    "institution": "TU Delft",
-                    "country": "The Netherlands"
-                }
-            ]
-        },
-        {
-            "position": "Human-aware Planning & Scheduling Track Chairs",
-            "email": "",
-            "people": [
-                {
-                    "name": "William Yeoh",
-                    "institution": "Washington University in St Louis",
-                    "country": "USA"
-                },
-                {
-                    "name": "Reuth Mirsky",
-                    "institution": "Tufts",
-                    "country": "USA"
-                }
-            ]
-        },
-        {
-            "position": "Learning for Planning & Scheduling Track Chairs",
-            "email": "",
-            "people": [
-                {
-                    "name": "Blai Bonet",
-                    "institution": "Universidad Simón Bolívar",
-                    "country": "Venezuela"
-                },
-                {
-                    "name": "Akshat Kumar",
-                    "institution": "Singapore Management University",
-                    "country": "Singapore"
-                }
-            ]
-        },
-        {
-            "position": "Planning & Scheduling in Robotics Track Chairs",
-            "email": "",
-            "people": [
-                {
-                    "name": "Federico Pecora",
-                    "institution": "Amazon Robotics",
-                    "country": "USA"
-                },
-                {
-                    "name": "Alan Fern",
-                    "institution": "Oregon State University",
-                    "country": "USA"
-                }
-            ]
-        },
-        {
-            "position": "Local Organizing Chair",
-            "email": "",
-            "people": [
-                {
-                    "name": "Rem Collier",
-                    "institution": "University College Dublin",
-                    "country": "Ireland"
-                }
-            ]
-        },
-        {
-            "position": "Doctoral Consortium Chairs",
-            "email": "",
-            "people": [
-                {
-                    "name": "Malte Helmert",
-                    "institution": "University of Basel",
-                    "country": "Switzerland"
-                },
-                {
-                    "name": "Jane Jean Kiam",
-                    "institution": "University of the Bundeswehr Munich",
-                    "country": "Germany"
-                },
-                {
-                    "name": "Ivan Serina",
-                    "institution": "University of Brescia",
-                    "country": "Italy"
-                }
-            ]
-        },
-        {
-            "position": "Tutorial Chair",
-            "email": "",
-            "people": [
-                {
-                    "name": "Sarah Keren",
-                    "institution": "Technion",
-                    "country": "Israel"
-                }
-            ]
-        },
-        {
-            "position": "Workshop Chairs",
-            "email": "",
-            "people": [
-                {
-                    "name": "Daniel Harabor",
-                    "institution": "Monash University",
-                    "country": "Australia"
-                },
-                {
-                    "name": "Mor Vered",
-                    "institution": "Monash University",
-                    "country": "Australia"
-                }
-            ]
-        },
-        {
-            "position": "System Demo Chair",
-            "email": "",
-            "people": [
-                {
-                    "name": "Christian Muise",
-                    "institution": "Queen's University",
-                    "country": "Canada"
-                }
-            ]
-        },
-        {
-            "position": "Journal Track Chairs",
-            "email": "",
-            "people": [
-                {
-                    "name": "Jendrik Seipp",
-                    "institution": "Linköping University",
-                    "country": "Sweden"
-                },
-                {
-                    "name": "Sylvie Thiebaux",
-                    "institution": "Australian National University",
-                    "country": "Australia and University of Toulouse, France"
-                }
-            ]
-        },
-        {
-            "position": "Summer School Chairs",
-            "email": "",
-            "people": [
-                {
-                    "name": "Scott Sanner",
-                    "institution": "University of Toronto",
-                    "country": "Canada"
-                },
-                {
-                    "name": "Siddharth Srivastava",
-                    "institution": "Arizona State University",
-                    "country": "USA"
-                }
-            ]
-        },
-        {
-            "position": "Sponsorship Chairs",
-            "email": "",
-            "people": [
-                {
-                    "name": "Sven Koenig",
-                    "institution": " University of California, Irvine",
+                    "name": "Stephen F. Smith",
+                    "institution": "Carnegie Mellon University",
                     "country": "USA"
                 },
                 {
@@ -218,36 +31,117 @@
                     "country": "USA"
                 },
                 {
-                    "name": "Neil Yorke Smith",
-                    "institution": "Delft University",
-                    "country": "Netherlands"
-                },
-                {
-                    "name": "Hankz Hankui Zhuo",
-                    "institution": "Nanjing University",
-                    "country": "China"
+                    "name": "Shahaf Shperberg",
+                    "institution": "Ben-Gurion University",
+                    "country": "Israel"
                 }
             ]
         },
         {
-            "position": "Mentoring Chair",
+            "position": "Summer School Chairs",
             "email": "",
             "people": [
                 {
-                    "name": "Hana Rudova",
-                    "institution": "Masaryk University",
-                    "country": "Czechia"
+                    "name": "Ayal Taitler",
+                    "institution": "Ben-Gurion University",
+                    "country": "Israel"
+                },
+                {
+                    "name": "Sarath Sreedharan",
+                    "institution": "Colorado State",
+                    "country": "US"
+                },
+                {
+                    "name": "TBA"
                 }
             ]
         },
         {
-            "position": "Workflow Chair",
+            "position": "Doctoral Consortium Chairs",
             "email": "",
             "people": [
                 {
                     "name": "Pulkit Verma",
                     "institution": "MIT",
-                    "country": "USA and IIT Madras, India"
+                    "country": ""
+                },
+                {
+                    "name": "TBA"
+                }
+            ]
+        },
+        {
+            "position": "Tutorial Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Sunandita Patra",
+                    "institution": "JP Morgan Chase Research",
+                    "country": ""
+                },
+                {
+                    "name": "Dor Atzmon",
+                    "institution": "Bar-Ilan University",
+                    "country": ""
+                }
+            ]
+        },
+        {
+            "position": "Workshop Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Parisa Zehtabi",
+                    "institution": "JP Morgan Chase Research",
+                    "country": ""
+                },
+                {
+                    "name": "Rick Valenzano",
+                    "institution": "Toronto Metropolitan University",
+                    "country": ""
+                }
+            ]
+        },
+        {
+            "position": "System Demo Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Harsha Kokkel",
+                    "institution": "IBM Research",
+                    "country": ""
+                },
+                {
+                    "name": "TBA"
+                }
+            ]
+        },
+        {
+            "position": "Sponsorship Chair",
+            "email": "",
+            "people": [
+                {
+                    "name": "Anagha Kulkarni",
+                    "institution": "Invitae",
+                    "country": ""
+                },
+                {
+                    "name": "TBA"
+                },
+                {
+                    "name": "TBA"
+                },
+                {
+                    "name": "TBA"
+                }
+            ]
+        },
+        {
+            "position": "Journal Track Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "TBA"
                 }
             ]
         },
@@ -256,14 +150,16 @@
             "email": "",
             "people": [
                 {
-                    "name": "Daniel Gnad",
-                    "institution": "Heidelberg University",
-                    "country": "Germany and Linköping University, Sweden"
-                },
+                    "name": "TBA"
+                }
+            ]
+        },
+        {
+            "position": "Community Outreach",
+            "email": "",
+            "people": [
                 {
-                    "name": "Alessandro Saetti",
-                    "institution": "University of Brescia",
-                    "country": "Italy"
+                    "name": "TBA"
                 }
             ]
         }

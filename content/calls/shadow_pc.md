@@ -1,7 +1,7 @@
 ---
 title: "Call for Shadow PC members"
 date: 2025-11-19T08:26:07+02:00
-draft: false
+draft: true
 ---
 
 # Call for Shadow Program Committee Members
@@ -85,12 +85,12 @@ members.
 - You bid on papers before January 6th.
 - Your assignment of papers to review will be announced by the 9th of January.
 - Pre-review information and meetings will take place in early January
-  2026.
-- Reviews are due at the beginning of February 2026.
-- Discussion about papers, and feedback on reviews, will take place until mid February 2026.
+  2027.
+- Reviews are due at the beginning of February 2027.
+- Discussion about papers, and feedback on reviews, will take place until mid February 2027.
 
 The reference timezone for all deadlines is UTC-12 (that date anywhere on Earth).
 
 ## Contact
 
-Send an email to [Patrik Haslum, Gabriele Röger and Rick Valenzano](mailto:patrik.haslum@anu.edu.au,gabriele.roeger@unibas.ch,rick.valenzano@torontomu.ca?subject=ICAPS%202026%20shadow%20PC).
+Send an email to [Patrik Haslum, Gabriele Röger and Rick Valenzano](mailto:patrik.haslum@anu.edu.au,gabriele.roeger@unibas.ch,rick.valenzano@torontomu.ca?subject=ICAPS%202027%20shadow%20PC).

@@ -15,9 +15,9 @@ Scheduling</a> (ICAPS) is
 the premier forum for exchanging news and research results on the theory and
 applications of intelligent and automated planning and scheduling technology.
 
-Planning and Scheduling are optimisation problems which require finding a set of actions to complete a task, to achieve a goal, or to optimise one or more objectives. Effective solutions to planning and scheduling problems are critical for a variety of important application areas, including Industry 4.0, aerospace systems, supply chain management, software engineering, robotics, education, digital entertainment and more.
+Planning and Scheduling involve the computational selection and sequencing of actions to achieve goals and optimize objectives. These technologies are critical for enabling intelligent decision-making in a wide range of applications, including Industry 4.0, aerospace systems, supply chain management, robotics, software engineering, education, and digital entertainment.
 
-**ICAPS 2026** is the 36th edition of the ICAPS conference series and will take place in Dublin, Ireland from June 27 to July 2, 2026. The conference venue is the <a href="https://www.claytonhotels.com/burlington-road-conferences/" target="_blank">Clayton Hotel Burlington Road</a>.
+**ICAPS 2027** is the 37th edition of the ICAPS conference series and will take place in Columbia, SC, USA in the Summer of 2027.
 
 
 <!-- {{< sponsors_table_json "sponsors/sponsors.json" >}}-->
