@@ -1,35 +1,36 @@
-# icaps2026.github.io
+# icaps2027.github.io
 
-Website for the ICAPS 2026 conference held in Dublin, Ireland - June 2026.
+Website for the ICAPS 2027 conference held in Columbia, SC, USA - Summer 2027.
 
 This site is published automatically via a GH Action workflow to the following default GH-pages:
 
-<https://icaps2026.github.io/>
+<https://icaps2027.github.io/>
+(and configured to serve <https://icaps27.icaps-conference.org/> via CNAME)
 
-If you want information on how to setup and deploy a new web-page for future ICAPS, please refer to file [DEPLOYMENT.md](DEPLOYMENT.md) is useful for those setting up a new webpage for future ICAPS iterations.
+If you want information on how to setup and deploy a new web-page for future ICAPS, please refer to file [DEPLOYMENT.md](DEPLOYMENT.md).
 
 ## Instructions for proposing/submitting updates
 
 Here are the instructions to submit updates to the website, for example, if you are the organizer of a workshop or tutorial and you want to update your own sub-page.
 
-We follow the [standard workflow](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for submitting/proposing updates to the upstream (original ICAPS26 website) using a Pull Request from a branch of a forked repo.
+We follow the [standard workflow](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for submitting/proposing updates to the upstream (original ICAPS27 website) using a Pull Request from a branch of a forked repo.
 
 ### 1. Fork the upstream ICAPS web repository
 
 First you need your own forked copy of the original upstream website:
 
 1. Sign up for Github
-2. Go to <https://github.com/icaps2026/icaps2026.github.io> and click the '`Fork`' button in the upper right. This should create and bring you to your _own_ forked copy of the ICAPS website repository.
+2. Go to <https://github.com/ICAPS2027/icaps2027.github.io> and click the '`Fork`' button in the upper right. This should create and bring you to your _own_ forked copy of the ICAPS website repository.
 
 ### 2. Clone your fork
 
-Clone locally the just created fork. After successfully cloning the repository you should end up with a directory called `icaps2026.github.io`. This directory will be referred to as _website root_.
+Clone locally the just created fork. After successfully cloning the repository you should end up with a directory called `icaps2027.github.io`. This directory will be referred to as _website root_.
 
 > [!NOTE]
 > You may want to setup an upstream remote to track the original repo:
 >
 > ```shell
-> git remote add upstream git@github.com:icaps2026/icaps2026.github.io.git
+> git remote add upstream git@github.com:ICAPS2027/icaps2027.github.io.git
 > git fetch upstream
 > ```
 
@@ -112,4 +113,4 @@ The site can be accessed locally at http://localhost:1313/ and is locally produc
 
 ### Creating your pull request
 
-If you have future edits to make, you can restart the process at "[Branch to Make your Edits](https://github.com/icaps2026/icaps2026.github.io#branch-to-make-your-edits)"
+If you have future edits to make, you can restart the process at "[Branch to Make your Edits](https://github.com/ICAPS2027/icaps2027.github.io#branch-to-make-your-edits)"

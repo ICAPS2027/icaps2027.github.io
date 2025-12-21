@@ -28,9 +28,35 @@ See below for how to locally develop the site and how to publish automatically.
 
 ## Setup
 
-First, fork the website from the previous edition into your GH organization `icapsXX`.
+### 1. Create a Fresh Repository (Do NOT Fork!)
 
-Make sure the GH repo is named `icapsXX.github.io`, where `XX` is the edition number.
+**Important:** Do not "Fork" the previous year's repository on GitHub. GitHub restricts users/organizations to a single fork per network, which can block future contributors.
+
+Instead, create a **new, empty repository** in your organization named `icapsXX.github.io` (where `XX` is the edition number).
+
+Then, perform a manual import/mirror of the previous year's code:
+
+1.  Clone the previous year's repo locally:
+    ```bash
+    git clone https://github.com/icaps2027/icaps2027.github.io.git temp-repo
+    cd temp-repo
+    ```
+2.  Remove the old git history link (so it becomes a fresh repo):
+    ```bash
+    rm -rf .git
+    git init
+    git branch -M main
+    ```
+3.  Link it to your NEW repository:
+    ```bash
+    git remote add origin https://github.com/icapsXX/icapsXX.github.io.git
+    ```
+4.  Push the code:
+    ```bash
+    git add .
+    git commit -m "Initial import from previous year"
+    git push -u origin main
+    ```
 
 The GitHub Pages website will be available at a default URL: https://icapsXX.github.io
 
