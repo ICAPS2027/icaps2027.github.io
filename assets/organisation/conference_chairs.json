@@ -62,7 +62,7 @@
             "people": [
                 {
                     "name": "Pulkit Verma",
-                    "institution": "IIT Madras",
+                    "institution": "Indian Institute of Technology Madras",
                     "country": "India"
                 },
                 {
@@ -119,6 +119,17 @@
             ]
         },
         {
+            "position": "Journal Track Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Sriraam Natrajan",
+                    "institution": "The University of Texas at Dallas",
+                    "country": "USA"
+                }
+            ]
+        },
+        {
             "position": "Sponsorship Chair",
             "email": "",
             "people": [
@@ -139,11 +150,13 @@
             ]
         },
         {
-            "position": "Journal Track Chairs",
+            "position": "Publicity Chairs",
             "email": "",
             "people": [
                 {
-                    "name": "TBA"
+                    "name": "Vishal Pallagani",
+                    "institution": "University of South Carolina",
+                    "country": "USA"
                 }
             ]
         },
@@ -152,7 +165,14 @@
             "email": "",
             "people": [
                 {
-                    "name": "TBA"
+                    "name": "Vignesh Narayanan",
+                    "institution": "University of South Carolina",
+                    "country": "USA"
+                },
+                {
+                    "name": "Nitin Gupta",
+                    "institution": "University of South Carolina",
+                    "country": "USA"
                 }
             ]
         }
