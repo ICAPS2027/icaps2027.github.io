@@ -1,21 +1,10 @@
 ---
-title: "Dates"
-date: 2022-09-29T13:23:05+02:00
-draft: true
+title: "Important Dates"
+type: "page"
 ---
 
-# Important Dates and Events
-
-All important dates will be announced here. The reference timezone for all deadlines is UTC-12. That is, the deadline has not passed as long as there is still time 
-anywhere in the world.
-
-## 2026
-- **Late 2026**: Submission site opens
-- **Late 2026:** Abstracts due
-- **Late 2026:** Full papers due
-
-## 2027
-- **Summer 2027** - ICAPS 2027 Conference
-
-
-
+* **Summer School:** June 22–26, 2027
+* **Doctoral Consortium (DC):** June 27, 2027
+* **Workshops and Tutorials:** June 28–29, 2027
+* **Main Conference:** June 30 – July 2, 2027
+* **Overall Conference:** June 28 – July 2, 2027
