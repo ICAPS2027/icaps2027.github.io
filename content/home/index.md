@@ -17,7 +17,8 @@ applications of intelligent and automated planning and scheduling technology.
 
 Planning and Scheduling involve the computational selection and sequencing of actions to achieve goals and optimize objectives. These technologies are critical for enabling intelligent decision-making in a wide range of applications, including Industry 4.0, aerospace systems, supply chain management, robotics, software engineering, education, and digital entertainment.
 
-**ICAPS 2027** is the 37th edition of the ICAPS conference series and will take place in Columbia, SC, USA in the Summer of 2027.
+gi**ICAPS 2027** is the 37th edition of the ICAPS conference series and will take place in Columbia, SC, USA in the Summer of 2027.
+**ICAPS 2027** is the 37th edition of the ICAPS conference series and will take place in Columbia, SC, USA From June 2027 to July 2.
 
 
 <!-- {{< sponsors_table_json "sponsors/sponsors.json" >}}-->
