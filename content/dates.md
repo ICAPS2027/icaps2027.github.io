@@ -7,4 +7,3 @@ type: "page"
 * **Doctoral Consortium (DC):** June 27, 2027
 * **Workshops and Tutorials:** June 28–29, 2027
 * **Main Conference:** June 30 – July 2, 2027
-* **Overall Conference:** June 28 – July 2, 2027
