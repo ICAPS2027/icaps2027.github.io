@@ -149,7 +149,7 @@ languageCode = 'en_US'
     weight = 10
 [[menu.main]]
     identifier = "special_tracks"
-    name = "Special Track"
+    name = "Special Track: Planning Under a Different Name"
     url = "/calls/special_tracks"
     parent = "calls"
     weight = 10
