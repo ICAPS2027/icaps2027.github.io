@@ -1,72 +1,33 @@
 ---
-title: "Special Tracks"
-date: 2026-11-02
-draft: true
+title: "Special Track: Planning Under a Different Name"
+date: 2026-09-06
+draft: false
 ---
 
-# ICAPS 2027 Descriptions of Special Tracks
+# Track: Planning Under a Different Name
 
-ICAPS-27 has an explicitly broad interpretation of planning and scheduling.  To highlight certain areas of interest and ensure that papers in those areas are reviewed appropriately, ICAPS-27 has special tracks.  If your work does not fit within one of these special tracks, please submit to the default ‘main track’.  If you are unsure whether your work should be submitted to a special track or the main track, feel free to contact the chairs of the special track.
+AI planning is concerned with using the ability to anticipate the results of actions to solve sequential decision-making problems. ICAPS has traditionally developed representations, algorithms, and theory for this purpose, including classical planning formalisms, heuristic search, planning under uncertainty, and many others. At the same time, over the last decade, closely related planning and deliberation methods have emerged across reinforcement learning, natural language processing, robotics, generative models, program synthesis, and other areas of AI.
 
-## Track: Human-aware Planning and Scheduling
+Examples of such instances of "planning under a different name" include the combination of learned policies and Monte Carlo tree search, learning world models with deep neural networks, planning in the token space for natural language generation, planning or search over diffusion steps for image generation, chain-of-thought and other forms of test-time reasoning, and many others. Such techniques have led to breakthroughs in fields such as program synthesis, mathematics, and robotics.
 
-The human-aware planning and scheduling track welcomes papers that address any challenges inherent to settings where a person needs to use, interact, collaborate or work along with planning and scheduling systems. The goal of this track is to foster advances in algorithms, design and modeling that enable planning and scheduling systems to interact effectively, transparently, and safely with people. We welcome submissions on novel algorithms, modeling techniques, challenges, and case studies of fielded systems. The track will also accept papers that address these challenges using Reinforcement learning or other learning mechanisms for sequential decision making. 
- 
-Topics of interest include, but are not limited to:
-- Human-aware planning, scheduling, and execution
-- Representing, modeling, and reasoning about human goals, plans, preferences, intent, capabilities, and constraints 
-- Mixed-initiative planning and scheduling with humans in the loop
-- Learning from demonstrations, feedback, or preference signals for planning in the presence of humans
-- Explainable, interpretable, and predictable planning & scheduling behavior
-- Trust, safety, ethics, transparency, fairness, communication and cooperation in human-aware planning systems
-- Interfaces, visualization, and methods for effective human–planner communication
-- Applications in human–robot teaming, collaborative decision support, assistive systems, and real-world scheduling scenarios
+ICAPS seeks to strengthen the connection between these developments and the planning community, and to better understand, compare, and unify the underlying ideas. The purpose of the Planning Under a Different Name track is therefore to serve as a bridge between the existing ICAPS community and researchers doing closely related work in other AI communities.
 
-## Track: Industry and Applications
+<!-- Submission and formatting requirements are the same as for the main track; see the [Call for Papers](cfp). -->
 
-The Industry and Applications track (formerly Novel Applications track) invites papers that demonstrate how planning and scheduling methods are applied to solve problems in industry and commerce, government, or emerging societal contexts. This track aims  to bring scientific results from planning and scheduling to practice, and also aims to identify scientific challenges by analyzing the limitations of current results to tackle real-world problems. We solicit submissions and participation from the private and public sectors, as well as from academics working on applications. We encourage submissions to provide rigorous evaluation using real-world data, and if applicable, to discuss the deployment of the methods and systems.
- 
-Topics of interest include, but not limited to:
-- Description and modelling of novel application domains
-- Engineering issues in using, deploying and scaling planning and scheduling techniques
-- Integration of multiple planning and scheduling techniques, or of planning and scheduling techniques with techniques from other areas or disciplines
-- User interface design, visualization, or human-system collaboration for a planning and scheduling application
-- Experiences in development, deployment, and maintenance of planning and scheduling applications
-- Evaluation, testing, and validation of planning and scheduling applications in societal or industrial environments
-- Assessment of impact on end users, customers, markets, or society at large
-- Industry / application challenge problems in planning and scheduling (including benchmark instances)
+## Which Track is Right for Me?
 
-## Track: Planning and Learning
+Ideally, all papers submitted to the Planning Under a Different Name track would also be suitable for the main track at ICAPS. However, despite substantial intellectual overlap, the ICAPS community and neighboring AI communities have developed different terminology, research traditions, assumptions, benchmarks, and evaluation practices. As a result, work that is novel and significant in one community may not always be evaluated in the appropriate context by another, and reviewers and authors may end up "talking past" each other during the review process. To address this, reviewers for the Planning Under a Different Name track will come from both the ICAPS community and the relevant neighboring AI communities. They will be instructed to apply the same standards of rigor, novelty, and significance as for other ICAPS submissions, while evaluating contributions in the context of the relevant literature and high-level planning concepts rather than requiring the conventions typically associated with ICAPS papers.
 
-The Planning and Learning track welcomes submissions at the intersection of planning and scheduling, machine learning and reinforcement learning. We particularly welcome submissions that provide rigorous empirical evaluation or theoretical insights into the interaction between learning, planning and scheduling fields to improve adaptability and scalability of sequential decision-making systems. Submissions must clearly make a case for their relevance to automated planning and scheduling systems. 
- 
-Topics of interest include, but not limited to:
-- Learning heuristics, domain and action models, or other forms of control knowledge for planning
-- Learning  generalized policies, sketches, goal decompositions, landmarks for planning
-- Neuro-symbolic approaches for representing and reasoning with learned models
-- Theoretical aspects of planning and learning
-- Multi-agent planning and learning
-- Planning and scheduling applied to machine learning systems 
-- Learning to abstract or decompose problem structure for effective planning 
-- Planning and scheduling methods to improve the performance of foundation models (LLM, VLM, VLA, etc.)
-- Planning and scheduling using foundation models (LLM, VLM, VLA, etc.)
-- Model-free approaches to planning and scheduling built from data
+Use the following criteria to determine the right track for your paper:
 
+**Suitability for the main track:**
+- The paper is primarily framed using planning terminology (e.g., PDDL, STRIPS), literature, representations, benchmarks, and evaluation methodology familiar to the ICAPS community.
+- Its main contribution can naturally be evaluated using the expertise of the existing ICAPS reviewer community.
 
-## Track: Robotics
+**Suitability for the Planning Under a Different Name track:**
+- The work makes a substantive contribution to planning or deliberative sequential decision-making, for example, through search, lookahead, reasoning over alternative trajectories, or predictive models used for decision-making.
+- It may involve search over states, actions, tokens, reasoning steps, programs, or latent representations; learned policies, value functions, or heuristics integrated with search; or learned world models used for planning.
+- The work is primarily situated in the terminology, literature, benchmarks, or methodological conventions of another research community.
+- It may evaluate on domains uncommon at ICAPS, such as language-model reasoning, reinforcement learning, robotics, program synthesis, theorem proving, generative modeling, or other application-specific benchmarks.
 
-The Robotics track welcomes research contributions in the general areas of planning and scheduling, which relate to the advancement of intelligent robots. The track aims to bridge high-level planning and scheduling with low-level control to enable robust, adaptive, and intelligent robot behavior. We especially encourage submissions that demonstrate and evaluate their approach on physically-realistic simulation platforms such as Gazebo and IsaacSim, and in physical robots, where possible. Submissions must demonstrate tight coupling between planning algorithms and robotic perception, control, or learning. 
- 
-Topics of interest include, but not limited to:
-- Task and motion planning
-- Learning methods for robot planning
-- Safety, explainability, legibility, and ethics in robot planning 
-- Planning and learning for human-robot teaming and interaction
--  Formal methods for robot planning and control 
-- Planning for perception and SLAM 
-- Plan execution, failure detection, and recovery in robotic tasks
-- Multi-robot planning, scheduling/coordination, and execution
-- Mixed initiative planning and adjustable autonomy
-- Temporal, hierarchical, continuous-space planning for embodied agents
-- Benchmarking planning domains for robotics
-- Integrating planning with foundation models (LLM, VLM, VLA, etc.) for robotics
+The use of machine learning, foundation models, generative models, or sequential computation alone is not sufficient; the work should make a substantive contribution to planning, search, lookahead, deliberation, or to representations, models, or other components intended to enable or improve them.

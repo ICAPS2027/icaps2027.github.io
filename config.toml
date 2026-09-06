@@ -137,22 +137,22 @@ languageCode = 'en_US'
 #    parent = "attending"
 #    weight = "50"
 # CALLS
-# [[menu.main]]
-#   identifier = "calls"
-#   name = "Calls"
-#   weight = 4000
-# [[menu.main]]
-#   identifier = "cfp"
-#   name = "Call for Papers"
-#   url = "/calls/cfp"
-#   parent = "calls"
-#   weight = 10
-# [[menu.main]]
-#   identifier = "special_tracks"
-#   name = "Special Tracks"
-#   url = "/calls/special_tracks"
-#   parent = "calls"
-#   weight = 10
+[[menu.main]]
+    identifier = "calls"
+    name = "Calls"
+    weight = 4000
+[[menu.main]]
+    identifier = "cfp"
+    name = "Call for Papers"
+    url = "/calls/cfp"
+    parent = "calls"
+    weight = 10
+[[menu.main]]
+    identifier = "special_tracks"
+    name = "Special Track"
+    url = "/calls/special_tracks"
+    parent = "calls"
+    weight = 10
 # [[menu.main]]
 #   identifier = "call_shadow_pc"
 #   name = "Call for Shadow PC Members"

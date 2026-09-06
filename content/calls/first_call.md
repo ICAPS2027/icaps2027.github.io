@@ -6,13 +6,18 @@ draft: true
 
 # First Call for Papers: ICAPS 2027
 
-The organizers of ICAPS-26 invite paper submissions on all aspects of automated planning and scheduling.  Planning and scheduling are to be interpreted broadly, to encompass a variety of decision-making and optimization problems involving action selection and timing.  This includes domain modeling, plan and schedule synthesis, execution and monitoring, failure diagnosis, model repair, and associated learning, representation, and reasoning problems.  ICAPS welcomes work on both deterministic and stochastic sequential decision-making, both with and without full observability, and both with and without factored state representations.  We welcome theoretical work, experimental work, and work on applications.  Work raising novel challenges and perspectives for the field is especially encouraged.
+The organizers of ICAPS-27 invite paper submissions on all aspects of automated planning and scheduling. Planning and scheduling are interpreted broadly to encompass a wide range of decision-making, optimization, and reasoning problems involving the selection, sequencing, coordination, and timing of actions. This includes domain modeling, plan and schedule synthesis, execution and monitoring, failure diagnosis, model repair, and associated learning, representation, and reasoning problems. ICAPS welcomes work on deterministic and stochastic sequential decision-making, under full or partial observability, and with factored or non-factored state representations. We welcome theoretical work, experimental work, and work on applications. Work raising novel challenges and perspectives for the field is especially encouraged.
+
+In addition to the main track, ICAPS-27 will feature a special track on [Planning Under a Different Name](special_tracks).
 
 For the full call for papers, please check [this page](cfp).
 
 
 ## Key Dates
 
-- Abstract submission deadline: 2nd December 2025
-- Paper submission deadline: 8th December 2025
-- Author notification: 20th February 2026
+The reference timezone for all deadlines is UTC-12.
+
+- Abstract submission deadline: December 7, 2026
+- Paper submission deadline: December 14, 2026
+- Author response period: February 1-4, 2027
+- Author notification: February 26, 2027
