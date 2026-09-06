@@ -19,5 +19,22 @@ Planning and Scheduling involve the computational selection and sequencing of ac
 
 **ICAPS 2027** is the 37th edition of the ICAPS conference series and will take place in Columbia, SC, USA From June 27, 2027 to July 2, 2027.
 
+## Important Dates
+
+All deadlines are at 11:59 PM UTC-12.
+
+| Event | Date |
+|---|---|
+| Abstract submission deadline | December 7, 2026 |
+| Paper submission deadline | December 14, 2026 |
+| Author response period | February 1–4, 2027 |
+| Author notification | February 26, 2027 |
+| Summer School | June 22–26, 2027 |
+| Doctoral Consortium | June 27, 2027 |
+| Workshops and Tutorials | June 28–29, 2027 |
+| Main Conference | June 30 – July 2, 2027 |
+
+See the [Call for Papers](/calls/cfp/) and the full list of [important dates](/dates/).
+
 
 <!-- {{< sponsors_table_json "sponsors/sponsors.json" >}}-->
