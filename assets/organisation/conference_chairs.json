@@ -52,7 +52,9 @@
                     "country": "USA"
                 },
                 {
-                    "name": "TBA"
+                    "name": "Romeo Sánchez Nigenda",
+                    "institution": "Universidad Autónoma de Nuevo León",
+                    "country": "Mexico"
                 }
             ]
         },
@@ -84,7 +86,7 @@
                 {
                     "name": "Sunandita Patra",
                     "institution": "JP Morgan Chase Research",
-                    "country": ""
+                    "country": "USA"
                 },
                 {
                     "name": "Dor Atzmon",
@@ -100,7 +102,7 @@
                 {
                     "name": "Parisa Zehtabi",
                     "institution": "JP Morgan Chase Research",
-                    "country": ""
+                    "country": "UK"
                 },
                 {
                     "name": "Rick Valenzano",
@@ -116,7 +118,7 @@
                 {
                     "name": "Harsha Kokel",
                     "institution": "IBM Research",
-                    "country": ""
+                    "country": "USA"
                 },
                 {
                     "name": "Augusto B. Corrêa",
@@ -126,18 +128,18 @@
             ]
         },
         {
-            "position": "Journal Track Chairs",
+            "position": "Previously Published Paper Track Chairs",
             "email": "",
             "people": [
                 {
-                    "name": "Sriraam Natrajan",
+                    "name": "Sriraam Natarajan",
                     "institution": "The University of Texas at Dallas",
                     "country": "USA"
                 }
             ]
         },
         {
-            "position": "Sponsorship Chair",
+            "position": "Sponsorship Chairs",
             "email": "",
             "people": [
                 {
@@ -146,13 +148,9 @@
                     "country": "USA"
                 },
                 {
-                    "name": "TBA"
-                },
-                {
-                    "name": "TBA"
-                },
-                {
-                    "name": "TBA"
+                    "name": "Hankz Hankui Zhuo",
+                    "institution": "Nanjing University",
+                    "country": "China"
                 }
             ]
         },
@@ -166,7 +164,7 @@
                     "country": "USA"
                 },
                 {
-                    "name": "Andrea Lorregia",
+                    "name": "Andrea Loreggia",
                     "institution": "University of Brescia",
                     "country": "Italy"
                 }
