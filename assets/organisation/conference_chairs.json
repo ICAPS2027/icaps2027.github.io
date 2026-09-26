@@ -144,7 +144,7 @@
             "people": [
                 {
                     "name": "Anagha Kulkarni",
-                    "institution": "Invitae",
+                    "institution": "JP Morgan Chase",
                     "country": "USA"
                 },
                 {
@@ -167,6 +167,11 @@
                     "name": "Andrea Loreggia",
                     "institution": "University of Brescia",
                     "country": "Italy"
+                },
+                {
+                    "name": "Bharath Muppasani",
+                    "institution": "University of South Carolina",
+                    "country": "USA"
                 }
             ]
         },
