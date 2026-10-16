@@ -66,7 +66,7 @@ The reference timezone for all deadlines is UTC-12. That is, the deadline has no
 ## Author Guidelines
 We welcome submissions of both long (8 pages plus additional page(s) for references) and short (4 pages plus additional page(s) for references) papers. Whether the paper is long or short must be indicated at submission time. All papers submitted to ICAPS-27 must be in AAAI Format.
 
-Over-length papers will be rejected without review. An over-length paper is one in which content other than references and the optional ethical impact statement appears on page 9 (long papers) or page 5 (short papers).
+Over-length papers will be rejected without review. An over-length paper is one in which content other than references and the optional ethical impact statement appears on page 9 (long papers) or page 5 (short papers). Supplementary material (see below) is submitted separately and does not count toward the page limit.
 
 All reviewed papers, whether they are in the long or short category, are expected to meet the same high standards set by ICAPS. Contributions will be evaluated according to their nature and submission category. Short papers may be narrower in scope than long papers, yet still make a complete and significant contribution. For example, they may address a highly specific issue or propose or evaluate a small but important extension, a new idea, an empirical finding, or a technical contribution.
 <!-- Please refer to the [reviewing guidelines](organisation/reviewing/) for more details. -->
@@ -74,6 +74,8 @@ All reviewed papers, whether they are in the long or short category, are expecte
 All accepted papers will be published in the proceedings and presented at the conference, either orally or as posters.
 
 Papers submitted to ICAPS-27 may not be submitted to other conferences or journals during the ICAPS-27 review period, nor may they be already under review, accepted, or published in other conferences or journals.
+
+**Submission limit: each author may be listed on at most 10 submissions to ICAPS-27, counting long and short papers and both tracks together.**
 
 <!--
 ## Submission Instructions
@@ -92,11 +94,13 @@ Submissions must be double-blind. Authors should omit their names and affiliatio
 We discourage authors from posting their manuscripts on arXiv.org or other similar repositories from two weeks before the submission deadline until the author notification deadline to avoid de-anonymizing the paper to potential reviewers.
 
 ## Reproducibility
-ICAPS contributions are frequently empirical, and the community's ability to build on them depends on how experiments were run. Papers reporting experimental results are expected to state, in the paper or in an appendix:
+ICAPS contributions are frequently empirical, and the community's ability to build on them depends on how experiments were run. Papers reporting experimental results are expected to state, in the main paper (e.g., in the experimental section):
 - the hardware and operating system used, and the time and memory limits imposed per instance;
 - the exact benchmark set, including how instances were selected and where they can be obtained;
 - the version (release or commit) of every planner, solver, or library used, and all non-default parameter settings;
 - for methods using foundation models, the exact model identifiers and versions, decoding parameters, the full prompts, and the dates on which the models were queried.
+
+Additional information can be included in an appendix, submitted separately as part of the supplementary material (see [Supplementary Material](#supplementary-material)).
 
 Where results are reported on a subset of a standard benchmark set, the selection criteria must be stated and must not depend on the results obtained.
 
@@ -107,6 +111,15 @@ Comparisons on fixed benchmark sets are a different matter. Standard benchmark s
 We strongly encourage authors to release code, learned models, benchmark instances, and raw per-instance results, and to include a brief availability statement describing what will be released and where. Links included in submissions must be anonymized; camera-ready versions should use a persistent archive with a DOI.
 
 Reviewers will be asked whether a paper reports enough detail for an independent group to reproduce its main results. Inability to release code for commercial or institutional reasons is not, in itself, grounds for rejection; omitting experimental detail may be.
+
+## Supplementary Material
+Authors may optionally submit supplementary material, such as an appendix (in PDF format), videos, code, datasets, or other supporting materials. This applies to both long and short papers. All supplementary material must be anonymized, and the total size must not exceed 100 MB. It must be submitted by the paper submission deadline; there is no separate deadline for supplementary material.
+
+Reviewers are not required to read or evaluate supplementary material, so the main paper must be self-contained and include all information necessary to understand and evaluate the work. In particular, the main paper should support its key claims, for example with proof sketches when full proofs appear in the supplement.
+
+Anonymized external links (e.g., anonymous code repositories or datasets) may be included in the paper or supplementary material, subject to the anonymity requirements above. The linked content must not be modified after the submission deadline, and reviewers are not required to visit external links.
+
+Supplementary material is not part of the proceedings. After acceptance, authors are welcome to post an extended version with supplementary material on arXiv or similar sites.
 
 ## Ethical / Societal Impact
 Authors are encouraged to include a statement of the potential broader impact of their work, including its ethical aspects and future societal consequences. This statement can be included either within the main-body page limit or on the pages otherwise reserved for references. If a paper does not include such a statement but reviewers determine that one is necessary, the authors may be asked to provide a statement during the author response period. The statement will be considered as part of the review process and, for accepted papers, must be incorporated into the camera-ready version.
