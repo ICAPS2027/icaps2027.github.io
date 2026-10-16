@@ -94,7 +94,7 @@ Submissions must be double-blind. Authors should omit their names and affiliatio
 We discourage authors from posting their manuscripts on arXiv.org or other similar repositories from two weeks before the submission deadline until the author notification deadline to avoid de-anonymizing the paper to potential reviewers.
 
 ## Reproducibility
-ICAPS contributions are frequently empirical, and the community's ability to build on them depends on how experiments were run. Papers reporting experimental results are expected to state, in the main paper (e.g., in the experimental section):
+ICAPS contributions are frequently empirical, and the community's ability to build on them depends on how experiments were run. Papers reporting experimental results are expected to state, in the main paper (e.g., in the experimental section) or in the supplementary material:
 - the hardware and operating system used, and the time and memory limits imposed per instance;
 - the exact benchmark set, including how instances were selected and where they can be obtained;
 - the version (release or commit) of every planner, solver, or library used, and all non-default parameter settings;
