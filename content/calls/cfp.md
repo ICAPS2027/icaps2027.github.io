@@ -51,10 +51,10 @@ Contributions are welcome in each of the following categories:
 - *Modeling papers*, which describe new representations of planning and scheduling problems and their solutions. Examples include new mathematical frameworks for existing problems, original descriptions of emerging problems, and refinements of existing frameworks for knowledge representation of actions, goals, states, or other rigorously defined concepts.
 - *Position papers*, which contribute thoughtful critiques or bold new perspectives on the field. Such papers should articulate a clear thesis and support it through appropriate evidence, analysis, or synthesis of prior work. Examples include meta-analysis of research trends, descriptions of new challenge problems suitable for planning and scheduling, historical perspectives and analysis of the field, and technical discussions of various implementation techniques.
 - *Tool papers*, which describe systems that are useful to and of interest to the planning and scheduling community, and which are built using novel algorithmic and engineering techniques. Examples include: integrated planning systems, model checkers and synthesis tools, libraries for constructing, managing, and transforming representations of planning and scheduling problems, and applications for visualizing, benchmarking, and comparing planners or other types of tools.
-- *Empirical and evaluation papers*, which provide new scientific insights through careful experimental study of planning and scheduling methods, benchmarks, assumptions, or evaluation methodologies. Such papers should make a substantive contribution beyond applying established methods to additional problem instances.
+- *Empirical, evaluation, and benchmark papers*, which provide new scientific insights through careful experimental study of planning and scheduling methods, benchmarks, assumptions, or evaluation methodologies. This category also covers papers that introduce new benchmark domains, instance sets, instance generators, or datasets. Experimental studies should make a substantive contribution beyond applying established methods to additional problem instances. Benchmark papers should explain what the benchmark measures that existing benchmarks do not, provide the instances or generators (anonymized at submission time), and report results for representative existing methods.
 - *Application papers*, which show how planning and scheduling methods can push the envelope for real-world problems.
 
-Papers that do not address problems related to automated planning or scheduling are out of scope and will be rejected without review. Work on reinforcement learning or other forms of sequential decision making is not in scope solely by virtue of addressing sequential decisions; it must make a substantive contribution to planning or scheduling. Where the relationship of the paper to planning and scheduling is not immediately obvious, authors should explain this relationship, and the relevance of the contribution to the ICAPS community, in the abstract and introduction of the paper.
+Papers that do not address problems related to automated planning or scheduling are out of scope and will be rejected without review. Work on reinforcement learning or other forms of sequential decision making is not in scope solely by virtue of addressing sequential decisions; it must make a substantive contribution to planning or scheduling. For example, learned heuristics, policies, or value functions used within search, and model-based reinforcement learning that plans with a learned model, are in scope; reinforcement learning without a planning or search component is not. Where the relationship of the paper to planning and scheduling is not immediately obvious, authors should explain this relationship, and the relevance of the contribution to the ICAPS community, in the abstract and introduction of the paper.
 
 ## Key Dates
 The reference timezone for all deadlines is UTC-12. That is, the deadline has not passed as long as there is still time anywhere in the world.
@@ -64,29 +64,23 @@ The reference timezone for all deadlines is UTC-12. That is, the deadline has no
 - Notification: February 26, 2027
 
 ## Author Guidelines
-We welcome submissions of both long (8 pages plus additional page(s) for references) and short (4 pages plus additional page(s) for references) papers. Whether the paper is long or short must be indicated at submission time. All papers submitted to ICAPS-27 must be in AAAI Format.
+We welcome submissions of both long (8 pages plus additional page(s) for references) and short (4 pages plus additional page(s) for references) papers. Whether the paper is long or short must be indicated at submission time. All papers submitted to ICAPS-27 must be formatted using the [AAAI-27 Author Kit](https://aaai.org/authorkit27/), but must follow the ICAPS-27 page limits stated here. Inclusion of the AAAI reproducibility checklist is not required.
 
 Over-length papers will be rejected without review. An over-length paper is one in which content other than references and the optional ethical impact statement appears on page 9 (long papers) or page 5 (short papers). Supplementary material (see below) is submitted separately and does not count toward the page limit.
 
 All reviewed papers, whether they are in the long or short category, are expected to meet the same high standards set by ICAPS. Contributions will be evaluated according to their nature and submission category. Short papers may be narrower in scope than long papers, yet still make a complete and significant contribution. For example, they may address a highly specific issue or propose or evaluate a small but important extension, a new idea, an empirical finding, or a technical contribution.
 <!-- Please refer to the [reviewing guidelines](organisation/reviewing/) for more details. -->
 
-All accepted papers will be published in the proceedings and presented at the conference, either orally or as posters.
+All accepted papers will be published in the proceedings and presented at the conference, either orally or as posters, subject to the [participation policy](#participation-policy) below.
 
 Papers submitted to ICAPS-27 may not be submitted to other conferences or journals during the ICAPS-27 review period, nor may they be already under review, accepted, or published in other conferences or journals.
 
 **Submission limit: each author may be listed on at most 10 submissions to ICAPS-27, counting long and short papers and both tracks together.**
 
-<!--
 ## Submission Instructions
-All submissions will be made electronically via [EasyChair](https://easychair.org/my2/conference?conf=icaps2027). Submitted papers must be anonymous for double-blind reviewing, must adhere to the page limits of the relevant submission type (long or short), and must follow the author kit instructions for formatting. We use the AAAI author kit that can be found [following this link](https://aaai.org/authorkit/). Inclusion of the AAAI reproducibility checklist is not required.
-
-Authors can submit supplementary material (videos, technical proofs, additional experimental results) in addition to the PDF paper they submit. Please ensure the supporting material is anonymized unless stated otherwise for specific submission types. Papers should be self-contained; reviewers are encouraged but not obligated to consider supporting material in their decisions, with the exception of tool papers. We recommend appendices are included through the supplementary material; however, if authors decide to include an appendix in the paper it must fit within the specified page limit.
-
-Failure to comply with the submission instructions above will result in desk rejection.
+All submissions will be made electronically via [EasyChair](https://easychair.org/conferences/?conf=icaps27), where authors select either the main track or the Planning Under a Different Name track. Submitted papers must be anonymous for double-blind reviewing, must adhere to the page limits of the relevant submission type (long or short), and must follow the author kit instructions for formatting. Failure to comply with these submission instructions will result in desk rejection.
 
 ICAPS-27 will follow a single round review process with an author feedback period providing authors the opportunity to respond to the reviews of their paper. During this period the authors will have the opportunity to provide a fixed-length response to the reviewers, but will not be permitted to include links to external materials or present additional results.
--->
 
 ## Double-blind requirements
 Submissions must be double-blind. Authors should omit their names and affiliations and refer to their own prior work in the third person. Acknowledgments and ethics statements must not contain information that identifies the authors.
@@ -123,6 +117,13 @@ Supplementary material is not part of the proceedings. After acceptance, authors
 
 ## Ethical / Societal Impact
 Authors are encouraged to include a statement of the potential broader impact of their work, including its ethical aspects and future societal consequences. This statement can be included either within the main-body page limit or on the pages otherwise reserved for references. If a paper does not include such a statement but reviewers determine that one is necessary, the authors may be asked to provide a statement during the author response period. The statement will be considered as part of the review process and, for accepted papers, must be incorporated into the camera-ready version.
+
+## Participation Policy
+ICAPS-27 is an in-person conference. At least one author of each accepted paper must register for the conference and present the paper in person.
+- *Non-author presenters:* a person who is not an author may present a paper only if at least one author applied for a visa within 10 days of the acceptance notification but did not obtain it in time, and no other author can attend. Authors must provide evidence of the visa application to the program chairs.
+- *No-shows:* an accepted paper that is not presented at the conference will be removed from the proceedings.
+- *Author list:* authors may not be added to or removed from a paper after the paper submission deadline. Corrections to how an author's name is written, such as adding or removing a middle initial, are allowed.
+- *Title:* only minor changes to the title of a paper are allowed after submission.
 
 <!--
 ## Best Paper Awards and Journal Fast Track
