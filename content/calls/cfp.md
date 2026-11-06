@@ -60,7 +60,7 @@ Papers that do not address problems related to automated planning or scheduling 
 The reference timezone for all deadlines is UTC-12. That is, the deadline has not passed as long as there is still time anywhere in the world.
 - Abstract submission deadline: December 7, 2026, 11:59 PM UTC-12
 - Paper submission deadline: December 14, 2026, 11:59 PM UTC-12
-- Author response period: February 1-4, 2027
+- Author response period: February 4-8, 2027
 - Notification: February 26, 2027
 
 ## Author Guidelines

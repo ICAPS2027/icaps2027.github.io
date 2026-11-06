@@ -19,5 +19,5 @@ The reference timezone for all deadlines is UTC-12.
 
 - Abstract submission deadline: December 7, 2026
 - Paper submission deadline: December 14, 2026
-- Author response period: February 1-4, 2027
+- Author response period: February 4-8, 2027
 - Author notification: February 26, 2027
