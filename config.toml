@@ -153,6 +153,12 @@ languageCode = 'en_US'
     url = "/calls/special_tracks"
     parent = "calls"
     weight = 10
+[[menu.main]]
+    identifier = "pc_nominations"
+    name = "Call for PC Self-Nominations"
+    url = "/calls/pc_nominations"
+    parent = "calls"
+    weight = 20
 # [[menu.main]]
 #   identifier = "call_shadow_pc"
 #   name = "Call for Shadow PC Members"
