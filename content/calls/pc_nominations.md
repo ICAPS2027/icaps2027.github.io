@@ -8,6 +8,8 @@ draft: false
 
 ICAPS 2027 invites researchers to nominate themselves for the Program Committee (PC). We welcome nominations from researchers working in automated planning and scheduling, as well as in related areas. Reviewers are needed for both the main track and the special track on [Planning Under a Different Name](/calls/special_tracks/), which covers planning-related work from neighboring AI areas such as reinforcement learning, natural language processing, robotics, and program synthesis.
 
+Nominees should have at least one peer-reviewed publication in automated planning and scheduling or a related area, and some prior reviewing experience. PhD students who meet these requirements are welcome to apply.
+
 ## What PC Members Do
 - Bid on submissions that match their expertise
 - Review the papers assigned to them (long and short)
